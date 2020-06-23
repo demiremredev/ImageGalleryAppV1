@@ -4,6 +4,8 @@
 
 ## Build Setup
 
+You just need to run 'npm run dev' because node_modules and yarn.lock are already committed. 
+
 ``` bash
 # install dependencies
 $ npm run sc-install
